@@ -26,35 +26,21 @@ I work across machine learning, deep learning, and modern AI systems. My focus i
   <img alt="Agents" src="https://img.shields.io/badge/-AI%20Agents-20232A?style=flat-square&logo=react">
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink">
   <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-5D3FD3?style=flat-square">
+  <img alt="LangSmith" src="https://img.shields.io/badge/-LangSmith-000000?style=flat-square&logo=chainlink">
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp">
   <img alt="ASP.NET MVC" src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet">
   <img alt="APIs" src="https://img.shields.io/badge/-APIs-005571?style=flat-square&logo=swagger">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript">
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/saimonemon46">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saimonemon46&show_icons=true&theme=github_dark">
-  </a>
-</p>
-
----
-
-## 🔥 Top Languages
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimonemon46&layout=compact">
-</p>
-
----
-
-## 📌 Pinned Projects
-<!-- Pin your best repos manually via GitHub profile settings -->
 
 ---
 
