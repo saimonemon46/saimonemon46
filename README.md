@@ -7,6 +7,9 @@
   <a href="https://github.com/saimonemon46"><img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/md-saimon-hasan-emon-17739a324/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"></a>
   <a href="mailto:saimonemon46@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail"></a>
+  <a href="https://www.geeksforgeeks.org/profile/saimon46?tab=activity"><img alt="GFG" src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks"></a>
+  <a href="https://codeforces.com/profile/MrRaj"><img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces"></a>
+
 </p>
 
 ---
