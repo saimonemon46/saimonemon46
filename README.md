@@ -1,10 +1,6 @@
-<div align="center">
-
 # Saimon Hasan Emon
 
 **Backend Developer · AI Systems · CSE Student**
-
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saimonemon46)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saimon-hasan-emon-17739a324/)
@@ -65,32 +61,30 @@ Currently preparing for software engineering interviews with a focus on system d
 
 ## Featured Projects
 
-**[MediSA](https://github.com/saimonemon46/MediSA)**
-AI-powered medical triage and doctor recommendation system built on a RAG/FAISS pipeline.
+**[MediSA](https://github.com/saimonemon46/MediSA)**  
+AI-powered medical triage and doctor recommendation system built on a RAG/FAISS pipeline.  
 `FastAPI` `LangChain` `LangGraph` `FAISS` `MySQL` — National Finalist, MillionX AI Buildathon · ICADI 2026 IEEE Shortlist
 
-<br/>
-
-**[UniMind](https://github.com/saimonemon46/UniMind)**
-Academic intelligence platform that detects at-risk students using ML and surfaces insights via an LLM assistant.
+**[UniMind](https://github.com/saimonemon46/UniMind)**  
+Academic intelligence platform that detects at-risk students using ML and surfaces insights via an LLM assistant.  
 `FastAPI` `Django` `React` `LangGraph` `PostgreSQL` `Scikit-learn` — Active development
 
-<br/>
-
-**[LeetCode Solutions](https://github.com/saimonemon46)**
-Python solutions to LeetCode problems, organized by topic and pattern for interview preparation.
+**[LeetCode Solutions](https://github.com/saimonemon46)**  
+Python solutions to LeetCode problems, organized by topic and pattern for interview preparation.  
 `Python` `Data Structures` `Algorithms`
 
 ---
 
 ## GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=saimonemon46&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimonemon46&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
 ## Current Focus
 
-Backend Development &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Data Structures & Algorithms &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Interview Preparation
-
-</div>
+- Backend Development
+- System Design
+- Data Structures & Algorithms
+- AI Systems
+- Software Engineering Interview Preparation
