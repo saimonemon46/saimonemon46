@@ -11,19 +11,24 @@
   <a href="https://leetcode.com/u/saimonemon46/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 <br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saimonemon46&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimonemon46&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saimonemon46&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com/?user=saimonemon46&theme=github-dark&hide_border=true"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimonemon46&theme=github-compact&hide_border=true&area=true"/>
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saimonemon46&theme=dark&no-frame=true&column=6&margin-w=6"/>
 </p>
+
 <br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saimonemon46&style=flat-square&color=555" alt="profile views"/>
