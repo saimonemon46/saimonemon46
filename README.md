@@ -1,50 +1,38 @@
-<!-- Header / Intro -->
-<h1 align="center">Hi 👋, I'm Saimon</h1>
-<h3 align="center">CSE Student | ML & AI Developer | Building Intelligent Systems</h3>
+<h1 align="center">Saimon</h1>
 
-<!-- Social links -->
 <p align="center">
-  <a href="https://github.com/saimonemon46"><img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/md-saimon-hasan-emon-17739a324/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:saimonemon46@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail"></a>
-  <a href="https://www.geeksforgeeks.org/profile/saimon46?tab=activity"><img alt="GFG" src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks"></a>
-  <a href="https://codeforces.com/profile/MrRaj"><img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces"></a>
-
+  CSE · Backend · AI Systems · Dhaka
 </p>
 
----
-
-## 👨‍💻 About Me
-I work across machine learning, deep learning, and modern AI systems. My focus includes building agents, LLM-powered applications, RAG pipelines, and GenAI workflows. I also develop backend services with FastAPI, SQL, C#, and ASP.NET MVC. I enjoy designing APIs, integrating advanced AI models, and creating practical applications using tools like LangChain and LangGraph.
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python">
-  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=tensorflow">
-  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=pytorch">
-  <img alt="LLMs" src="https://img.shields.io/badge/-LLMs-5e5e5e?style=flat-square&logo=openai">
-  <img alt="RAG" src="https://img.shields.io/badge/-RAG-4B0082?style=flat-square">
-  <img alt="Agents" src="https://img.shields.io/badge/-AI%20Agents-20232A?style=flat-square&logo=react">
-  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink">
-  <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-5D3FD3?style=flat-square">
-  <img alt="LangSmith" src="https://img.shields.io/badge/-LangSmith-000000?style=flat-square&logo=chainlink">
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi">
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql">
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp">
-  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet">
-  <img alt="APIs" src="https://img.shields.io/badge/-APIs-005571?style=flat-square&logo=swagger">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript">
+<p align="center">
+  <a href="https://github.com/saimonemon46"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/md-saimon-hasan-emon-17739a324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://saimonemon-rf7db9muk-saimonemon46s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="mailto:saimonemon46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/MrRaj"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
 </p>
 
+<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimonemon46&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimonemon46&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saimonemon46&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 
-Thanks for visiting 👀
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimonemon46&theme=github-compact&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saimonemon46&theme=dark&no-frame=true&column=6&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saimonemon46&style=flat-square&color=555" alt="profile views"/>
+</p>
