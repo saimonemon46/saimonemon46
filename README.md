@@ -10,6 +10,7 @@
   <a href="https://saimonemon-rf7db9muk-saimonemon46s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="mailto:saimonemon46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://codeforces.com/profile/MrRaj"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
+  <a href="https://leetcode.com/u/saimonemon46/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
 </p>
 
 <br/>
