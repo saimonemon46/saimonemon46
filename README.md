@@ -102,7 +102,8 @@ I am a Computer Science & Engineering student specializing in **backend developm
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimonemon46&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimonemon46&theme=tokyonight" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saimonemon46&theme=tokyonight" alt="Productive Time" width="48%" />
 </p>
 
 <p align="center">
