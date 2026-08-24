@@ -97,12 +97,12 @@ I am a Computer Science & Engineering student specializing in **backend developm
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimonemon46&show_icons=true&theme=tokyonight&hide_border=true" alt="Saimon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimonemon46&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimonemon46&theme=tokyonight" alt="Saimon's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saimonemon46&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saimonemon46&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimonemon46&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
