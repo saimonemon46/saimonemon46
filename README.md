@@ -3,7 +3,7 @@
   <br/><br/>
   
   <h1>⚡ Md. Saimon Hasan Emon</h1>
-  <p><b>Backend Engineering &nbsp;|&nbsp; AI Systems Architect &nbsp;|&nbsp; CSE Student</b></p>
+  <p><b>Backend Engineering &nbsp;|&nbsp; oftware Engineer|Backend & Distributed Systems &nbsp;|&nbsp; CSE Student</b></p>
   <p><i>Building scalable backend architectures, high-performance APIs, and retrieval-augmented AI systems.</i></p>
 
   <p align="center">
@@ -92,25 +92,6 @@ I am a Computer Science & Engineering student specializing in **backend developm
   </tr>
 </table>
 
----
-
-### 📊 GitHub Activity & Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimonemon46&theme=tokyonight" alt="Saimon's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saimonemon46&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimonemon46&theme=tokyonight" alt="Most Commit Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saimonemon46&theme=tokyonight" alt="Productive Time" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimonemon46&theme=react&hide_border=true&area=true" alt="Contribution Activity Graph" width="98%" />
-</p>
-
----
 
 ### 🎯 Current Focus & Growth
 
