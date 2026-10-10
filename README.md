@@ -3,7 +3,7 @@
   <br/><br/>
   
   <h1>⚡ Md. Saimon Hasan Emon</h1>
-  <p><b>Backend Engineering &nbsp;|&nbsp; oftware Engineer|Backend & Distributed Systems &nbsp;|&nbsp; CSE Student</b></p>
+  <p><b>Backend Engineering &nbsp;|&nbsp; Software Engineer|Backend & Distributed Systems &nbsp;|&nbsp; CSE Student</b></p>
   <p><i>Building scalable backend architectures, high-performance APIs, and retrieval-augmented AI systems.</i></p>
 
   <p align="center">
